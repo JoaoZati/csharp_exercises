@@ -1,0 +1,14 @@
+/home/joaozati/Dev/csharp_exercises/MyDebugApp/bin/Debug/net8.0/MyDebugApp
+/home/joaozati/Dev/csharp_exercises/MyDebugApp/bin/Debug/net8.0/MyDebugApp.deps.json
+/home/joaozati/Dev/csharp_exercises/MyDebugApp/bin/Debug/net8.0/MyDebugApp.runtimeconfig.json
+/home/joaozati/Dev/csharp_exercises/MyDebugApp/bin/Debug/net8.0/MyDebugApp.dll
+/home/joaozati/Dev/csharp_exercises/MyDebugApp/bin/Debug/net8.0/MyDebugApp.pdb
+/home/joaozati/Dev/csharp_exercises/MyDebugApp/obj/Debug/net8.0/MyDebugApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/joaozati/Dev/csharp_exercises/MyDebugApp/obj/Debug/net8.0/MyDebugApp.AssemblyInfoInputs.cache
+/home/joaozati/Dev/csharp_exercises/MyDebugApp/obj/Debug/net8.0/MyDebugApp.AssemblyInfo.cs
+/home/joaozati/Dev/csharp_exercises/MyDebugApp/obj/Debug/net8.0/MyDebugApp.csproj.CoreCompileInputs.cache
+/home/joaozati/Dev/csharp_exercises/MyDebugApp/obj/Debug/net8.0/MyDebugApp.dll
+/home/joaozati/Dev/csharp_exercises/MyDebugApp/obj/Debug/net8.0/refint/MyDebugApp.dll
+/home/joaozati/Dev/csharp_exercises/MyDebugApp/obj/Debug/net8.0/MyDebugApp.pdb
+/home/joaozati/Dev/csharp_exercises/MyDebugApp/obj/Debug/net8.0/MyDebugApp.genruntimeconfig.cache
+/home/joaozati/Dev/csharp_exercises/MyDebugApp/obj/Debug/net8.0/ref/MyDebugApp.dll

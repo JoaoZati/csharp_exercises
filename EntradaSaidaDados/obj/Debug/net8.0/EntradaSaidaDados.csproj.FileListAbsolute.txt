@@ -1,0 +1,14 @@
+/home/joaozati/Dev/csharp_exercises/EntradaSaidaDados/bin/Debug/net8.0/EntradaSaidaDados
+/home/joaozati/Dev/csharp_exercises/EntradaSaidaDados/bin/Debug/net8.0/EntradaSaidaDados.deps.json
+/home/joaozati/Dev/csharp_exercises/EntradaSaidaDados/bin/Debug/net8.0/EntradaSaidaDados.runtimeconfig.json
+/home/joaozati/Dev/csharp_exercises/EntradaSaidaDados/bin/Debug/net8.0/EntradaSaidaDados.dll
+/home/joaozati/Dev/csharp_exercises/EntradaSaidaDados/bin/Debug/net8.0/EntradaSaidaDados.pdb
+/home/joaozati/Dev/csharp_exercises/EntradaSaidaDados/obj/Debug/net8.0/EntradaSaidaDados.GeneratedMSBuildEditorConfig.editorconfig
+/home/joaozati/Dev/csharp_exercises/EntradaSaidaDados/obj/Debug/net8.0/EntradaSaidaDados.AssemblyInfoInputs.cache
+/home/joaozati/Dev/csharp_exercises/EntradaSaidaDados/obj/Debug/net8.0/EntradaSaidaDados.AssemblyInfo.cs
+/home/joaozati/Dev/csharp_exercises/EntradaSaidaDados/obj/Debug/net8.0/EntradaSaidaDados.csproj.CoreCompileInputs.cache
+/home/joaozati/Dev/csharp_exercises/EntradaSaidaDados/obj/Debug/net8.0/EntradaSaidaDados.dll
+/home/joaozati/Dev/csharp_exercises/EntradaSaidaDados/obj/Debug/net8.0/refint/EntradaSaidaDados.dll
+/home/joaozati/Dev/csharp_exercises/EntradaSaidaDados/obj/Debug/net8.0/EntradaSaidaDados.pdb
+/home/joaozati/Dev/csharp_exercises/EntradaSaidaDados/obj/Debug/net8.0/EntradaSaidaDados.genruntimeconfig.cache
+/home/joaozati/Dev/csharp_exercises/EntradaSaidaDados/obj/Debug/net8.0/ref/EntradaSaidaDados.dll
